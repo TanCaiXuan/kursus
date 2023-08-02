@@ -1,0 +1,45 @@
+Kursus Pengkhususan Perawatan Renal/ Nefrologi 2157 381 331
+Kursus Pengkhususan Kejururawatan Kesihatan Awam 1634 326 206
+Kursus Pengkhususan Perawatan Pediatrik 1440 283 182
+Kursus Pengkhususan Perawatan Ortopedik 1393 249 200
+Kursus Pengkhususan Perawatan Neonat 1115 237 140
+Kursus Pengkhususan Pengurusan Diabetis 1034 233 142
+Kursus Pengkhususan Kawalan Infeksi 987 176 143
+Kursus Pengkhususan Perawatan Oftalmik 370 80 47
+Kursus Pengkhususan Penjagaan Kesihatan Primer 427 109 52
+Kursus Pengkhususan Perawatan Perianestesia 773 154 104
+Kursus Pengkhususan Pengurusan Makmal 0 0 0
+Kursus Pengkhususan Perawatan Neurosains 284 63 32
+Kursus Pengkhususan Perawatan Otorinolaringologi 262 54 30
+Kursus Pengkhususan Perubatan Sukan 147 50 0
+Kursus Pengkhususan Gastrointestinal Endoscopy 446 99 51
+Kursus Pengkhususan Penyiasatan & Pendakwaan Undang-Undang 80 19 10
+Kursus Pengkhususan Perawatan Rehabilitasi 265 52 30
+Kursus Pengkhususan Rawatan Ortodontik 77 26 0
+Kursus Pengkhususan Kesihatan Persekitaran 0 0 0
+Kursus Pengkhususan Anaesthesia 57 18 0
+Kursus Pengkhususan Rawatan Peridontik 22 22 0
+Kursus Pengkhususan Kaunseling HIV/AIDS 322 98 14
+Kursus Pengkhususan Pembedahan Mulut (Maksilofasial) 0 0 0
+Kursus Pengkhususan Kesihatan & Keselamatan Pekerja 0 0 0
+Kursus Pengkhususan Mikrobiologi Perubatan 20 20 0
+Kursus Pengkhususan Penjagaan Pergigian Pediatrik 25 25 0
+Kursus Pengkhususan Hemeostasis 0 0 0
+Kursus Pengkhususan Sediaan Farmaseutikal Steril 81 19 0
+Kursus Pengkhususan Patologi Kimia 0 0 0
+Kursus Pengkhususan Neurofisiologi Klinikal 10 10 0
+Kursus Pengkhususan Tomografi Berkomputer 79 48 0
+Kursus Pengkhususan Forensik 72 18 0
+Kursus Pengkhususan Parasitologi 0 0 0
+Kursus Pengkhususan Muskulo - Skeletal 0 0 0
+Kursus Pengkhususan Keselamatan & Kebersihan Makanan 0 0 0
+Kursus Pengkhususan Prostesis Maksilofasial 16 16 0
+Kursus Pengkhususan Perancangan Terapi Pancaran 0 0 0
+Kursus Pengkhususan Bioteknologi 0 0 0
+Kursus Pengkhususan Cytogenetics 0 0 0
+Kursus Pengkhususan Epidemiologi dan Kawalan Penyakit 18 18 0
+Kursus Pengkhususan Kardiopulmonari Fisioterapi 0 0 0
+Kursus Pengkhususan Neurologi Fisioterapi 0 0 0
+Kursus Pengkhususan Penjagaan Dermatologi 59 36 0
+Kursus Pengkhususan Penjagaan Luka 30 30 0
+Kursus Pengkhususan Penjagaan Reumatologi 14 14 0

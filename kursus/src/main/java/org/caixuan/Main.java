@@ -33,11 +33,14 @@ public class Main {
         //check
         if(dkSet.exists()) {
             System.out.println("File exists");
+            System.out.println();
 
             if (dkSet.canRead()) {
                 System.out.println("File is readable");
+                System.out.println();
             } else {
                 System.out.println("File is unreadable");
+                System.out.println();
             }
 
             try(Scanner reader = new Scanner(dkSet)) {
